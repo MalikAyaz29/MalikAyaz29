@@ -142,6 +142,8 @@ Agentic AI Engineering
 
 ---
 
+---
+
 ## 📊 GitHub
 
 <p align="center">
@@ -154,8 +156,11 @@ Agentic AI Engineering
     <img src="https://img.shields.io/badge/Repositories-View%20Projects-blue?style=for-the-badge&logo=github" />
   </a>
 
-</p>
+  <a href="https://github.com/MalikAyaz29?tab=stars">
+    <img src="https://img.shields.io/github/stars/MalikAyaz29?style=for-the-badge&logo=github&label=Stars" />
+  </a>
 
+</p>
 ---
 
 ## 🎯 What I'm Working Towards
