@@ -143,15 +143,17 @@ Agentic AI Engineering
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MalikAyaz29&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-  <img src="https://github-readme-streak-stats.demolab.com/?user=MalikAyaz29&theme=tokyonight" />
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MalikAyaz29&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ### 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikAyaz29&layout=compact&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikAyaz29&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ---
